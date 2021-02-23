@@ -16,7 +16,7 @@ Players will be seperated into two teams: Cops and robbers. There will be only o
 
 ## Unique selling points
 
-* Allowing gunfughts during robbery
+* Allowing gunfights during robbery and getaway.
 * Unique gadgets for both teams to use in order to achieve victory
 * Hero-based characters in each team with their own gadgets.
 * Planning on where to rob or how to caught the robbers.
