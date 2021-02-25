@@ -1,17 +1,17 @@
 Project Name: Heist
 
-Role Required: looking for individuals with experience in GTA V / fiveM modding
+Role Required: looking for individuals with experience in scripting/modding in GTA V/FiveM (Knowing ESXi or ESX is a plus)/Roblox.
 
-My Role: As well as project manager (I'd like to pride myself on being more lenient than any manager you'll ever have elsewhere)
+My Role: Developer, game designer as well as project manager. I am responsible to track down the game's progress and implementating the core mechanics for the game.
 
-My Previous Projects: N/A
+My Previous Projects: Phantomfield (Halted project.)
 
-Team Size: Currently in the single digits, approximately 4 iirc, but I'm hoping to raise that number to at least 30 happy collaborators if possible.
+Team Size: Currently 2 developers and 1 QA tester. We aimed to expanse our developer team to a 6-8 people development team.
 
-Project Length: Until it's done (I'd rather not force workers to crunch to meet a deadline)
+Project Length: 6~8 months (As there are ready-made compoments, the job we will do is mostly on modeifying existing compoments.)
 
-Compensation: A portion of the profits, divided based on necessity of work (while it's a f2p game concept, profits will come in the form of cosmetic microtransactions and time-savers)
+Compensation: A portion of the profits, divided based on necessity of work.
 
-Responsibilities: will vary depending on your role in the project
+Responsibilities: Implementating differnt game compoments (PvP management, CURD operation from the client to database, asset management system) from existing server compoments and game assets.
 
-Project Description: A class-based FPS with RTS aspects. it can be best described as a combination of Call of Duty, Overwatch, and StarCraft 2. Story details can be given elsewhere, for the safety of the (currently unprotected) intellectual property.
+Project Description: A WIP fiveM server that offers intense PvP with driving and shooting combined. Details will be revealed if interested.

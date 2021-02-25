@@ -9,7 +9,7 @@
   * Hacker: The player who is responsible to infiltrate some specifc safe in order to prevent the vaulables got destroyed.
 * Cops:
   * Officer: Responsible for caughting the robbers by any means. Cannot use weapon during the car chase.
-  * SWAT Team: When a team uses SWAT team pass, it will become the swat team which can use weapons all the time.
+  * SWAT Team: When a team uses SWAT team pass, the will deployed as the swat team which can use weapons all the time. However there are only one lifes for them.
 
 ## Controls
   
