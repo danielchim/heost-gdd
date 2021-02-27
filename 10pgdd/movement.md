@@ -21,6 +21,7 @@
   * F: interace with items.
   * Tab: Use inventory items (Demolitions, weapons, etc)
   * G: Special ability item deploy
+  * V : Camera prespective switch (FPP/TPP)
   
 * Weapon control:
   * Mouse left key: fire

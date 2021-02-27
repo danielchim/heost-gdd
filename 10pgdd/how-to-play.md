@@ -16,6 +16,14 @@ In "Heist", as players are divided into different teams, each character player i
 
     In the cops team, the roles are more simple: as there are only officers and swat team. Officers can chose their gadgets as different "heros", similar to robbers.
 
+### Outfits
+
+Players can get unique outfits for their players inside the game. Outfits are purchasable in clothing store and paid by dollars. This include hats, shirts, trousers and shoes. If possible outfit packs are available for player to purchase.
+
+## Inventory
+
+Players will have a inventory system for the players, apartment and vehicles.
+
 ## Locations
 
 During the game heist, players will visit multiple places in the map.
@@ -36,9 +44,25 @@ During the game heist, players will visit multiple places in the map.
 
      One of the places where the robber team could getaway. Robbers will escape from LS with boats when choosing this method.
 
+## Robbery
+
+In the game, robbers can rob a list of items:
+
+* Cash
+
+* Gold
+
+* Diamond
+
+* Special items
+
 ## Vehicles
 
-Vechicles takes a major role in the gameplay. Robbers need vehicles to escape while the cops need the vehicle to catch the robbers. Each vehicle has 3 properties: HP, speed and storage capacity. HP determines the health of the vehicle. If the HP value drops to 0, the vehicle will explode. Then there is speed, which is self-explaintory, determine how fast the vehicle could go. And finally the storage capacity. The storage capacity will determine how many items or loot could be stored inside a vehicle.
+Vechicles takes a major role in the gameplay. Robbers need vehicles to escape while the cops need the vehicle to catch the robbers.
+
+Vehicles are avilable to purchase via car dealership. However some cars could only be purchased from the black market.
+
+Each vehicle has 3 properties: HP, speed and storage capacity. HP determines the health of the vehicle. If the HP value drops to 0, the vehicle will explode. Then there is speed, which is self-explaintory, determine how fast the vehicle could go. And finally the storage capacity. The storage capacity will determine how many items or loot could be stored inside a vehicle.
 
  There are multiple vehicle classes available for player to choose.
 
@@ -72,6 +96,53 @@ Vechicles takes a major role in the gameplay. Robbers need vehicles to escape wh
 
 Players can own multiple vehicles as long as their garage could store.
 
+### Liveries
+
+Liveries are also available for player's vehicle to use. Liveries are avilable for players to purchase on the paint for special liveries to their car. The same as character outfits, there are tier-based system. The higher tier the livery is, the more expensive it will be.
+
+### Stickers
+
+In the future, stickers are available for oput on player's vehicles.
+
+## Weapons
+
+Weapons are used to enage with the prusuiting cops, control the crownd for the robbers team. As for the cops team, only the swat teams has access to the weponary, which could be useful to destroy robber's vehicle.
+
+* Assault rifle
+
+* SMG
+
+* Machine gun
+
+* Rocket launchers
+
+* Sniper rifles
+
+These weapons will have skins for players to chose on their weapons.
+
+## Economy
+
+Dollars are the main currency inside the game. Players could get dollars in server way:
+
+### In game
+
+* Robbers: As robbers successfully get away from Los santos, the money will be laundry from the black market. After that, the money will be available for the players to spend. However if they robbers failed to getaway, they will not receive any money.
+
+* Cops: Cops can earn money by destroying the robber's vehicle. The system will determine the damage percentage based on the players and will give the represent precentage to the players. The same as robbers, if they failed to caught the robbers, they will not receive any money.
+
+### Outside
+
+Players could also use real money to receive dollars for purchasing in game items. Currently the maxium money would be 200 USD. The currency would be 1 (USD) : 8 (In game dollars).
+
 ## Black market
 
+![Example of traders in Escape from tarkov](https://i1.wp.com/bssgaming.com/wp-content/uploads/2020/03/2020-03-1921-05-0-1.png?fit=1920%2C1080&ssl=1)
+Black market is the place where players could purchase unique items inside the game. This includes vehicles, in-game gadgets and speical services. These services are offered by "fixers" in the game. Sometimes fixers will offer missions for the players. For example, fixers might require players to get specific special items. The more quests you complete from fixers, the more benefit you can enjoy from the fixers. (i.e: discounts on special gear, extra payback when hadling items.)
+
 ## Progressions
+
+In each round of matches, players will able to gain experiences. The experiencs could be gained from driving, robbing, or pursuiting. These experiences will stored into reputations. Reputations are useful when trying to get special items from the black market, also showing off how experience you-are in the game.
+
+## Monetization
+
+Our monetization would be only for purchasing dollars when the server is opened. However in the future, battle pass might me introduced, with special limited-time exclusive access for vehicles, livery and character outfit packs. After that, they will be available for players to purchase with in-game dollars.
