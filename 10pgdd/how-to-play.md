@@ -46,11 +46,11 @@ During the game heist, players will visit multiple places in the map.
 
 ## Robbery
 
-In the game, robbers can rob a list of items:
+In the game, robbers can rob a list of items. Basically expect cash and special items, every item requires a peroid of time to laundry, after that it will converted 
 
-* Cash
+* Cash: The most common item that players can rob in each game. No need for laundring, but the least vaulable.
 
-* Gold
+* Gold: The least common item that players can rob. They are more vaulable compared to cash, also the shortest time for laundring.
 
 * Diamond
 
@@ -108,7 +108,7 @@ In the future, stickers are available for oput on player's vehicles.
 
 Weapons are used to enage with the prusuiting cops, control the crownd for the robbers team. As for the cops team, only the swat teams has access to the weponary, which could be useful to destroy robber's vehicle.
 
-* Assault rifle
+* Assault rifle: A weapon with a medium range of ammo
 
 * SMG
 
@@ -137,7 +137,9 @@ Players could also use real money to receive dollars for purchasing in game item
 ## Black market
 
 ![Example of traders in Escape from tarkov](https://i1.wp.com/bssgaming.com/wp-content/uploads/2020/03/2020-03-1921-05-0-1.png?fit=1920%2C1080&ssl=1)
-Black market is the place where players could purchase unique items inside the game. This includes vehicles, in-game gadgets and speical services. These services are offered by "fixers" in the game. Sometimes fixers will offer missions for the players. For example, fixers might require players to get specific special items. The more quests you complete from fixers, the more benefit you can enjoy from the fixers. (i.e: discounts on special gear, extra payback when hadling items.)
+Black market is the place where players could purchase unique items inside the game. This includes vehicles, in-game gadgets and speical services. These services are offered by "fixers" in the game. 
+
+Sometimes fixers will offer missions for the players. For example, fixers might require players to get specific special items. The more quests you complete from fixers, the more benefit you can enjoy from the fixers. (i.e: discounts on special gear, extra payback when hadling items.)
 
 ## Progressions
 
