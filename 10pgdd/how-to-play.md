@@ -1,12 +1,10 @@
-# How the game plays TODO.
+# How the game plays.
 
 In this part, we will introduce different compoments in the game, for a further introduction about the setting about the game.
 
 ## Character
 
 In "Heist", as players are divided into different teams, each character player is using, has their special gadgets to use. The gadgets they have might change the way the decision when playing.
-
-### TODO: unfinished (I don't know shall I add hero stuff)
 
 * Robbers:
   
@@ -44,17 +42,19 @@ During the game heist, players will visit multiple places in the map.
 
      One of the places where the robber team could getaway. Robbers will escape from LS with boats when choosing this method.
 
+## Game AI
+
 ## Robbery
 
 In the game, robbers can rob a list of items. Basically expect cash and special items, every item requires a peroid of time to laundry, after that it will converted 
 
-* Cash: The most common item that players can rob in each game. No need for laundring, but the least vaulable.
+* Cash: The most common item that players can rob in each game. No need for laundring, but the least vaulable. Available in all banks.
 
-* Gold: The least common item that players can rob. They are more vaulable compared to cash, also the shortest time for laundring.
+* Gold: The less common item that players can rob. They are more vaulable compared to cash, also the shortest time for laundring. Occasionally spawn in remote banks, while a higher chance spawn in pacific standard bank. 100% spawn in federal reserve.
 
-* Diamond
+* Diamond: The least common item that players can rob. They are more vaulable compared to cash, also the shortest time for laundring. Only spawn in pacific standard bank.
 
-* Special items
+* Special items: These items are only available in special events, or being requested by fixers.
 
 ## Vehicles
 
@@ -108,17 +108,17 @@ In the future, stickers are available for oput on player's vehicles.
 
 Weapons are used to enage with the prusuiting cops, control the crownd for the robbers team. As for the cops team, only the swat teams has access to the weponary, which could be useful to destroy robber's vehicle.
 
-* Assault rifle: A weapon with a medium range of ammo
+* Assault rifle: A weapon with a medium range of ammo, damage and firerate. Accessible by all crew members.
 
-* SMG
+* SMG: Weapon with a fast firerate, mobility, but less damage. Accessible by all crew members.
 
-* Machine gun
+* Machine gun: Weapon with large ammo capacity per magazine, but slow firerate. Only accessible by rifleman.
 
-* Rocket launchers
+* Rocket launchers: Only being accessible by demolitions. They got a limited total ammo capacity.
 
-* Sniper rifles
+* Sniper rifles: Weapons with a high zoom rate of scope.
 
-These weapons will have skins for players to chose on their weapons.
+These weapons will have weapon attachments to be installed on the player's gun. There are also skins for players to chose on their weapons.
 
 ## Economy
 
@@ -132,19 +132,29 @@ Dollars are the main currency inside the game. Players could get dollars in serv
 
 ### Outside
 
-Players could also use real money to receive dollars for purchasing in game items. Currently the maxium money would be 200 USD. The currency would be 1 (USD) : 8 (In game dollars).
+Players could also use real money to receive dollars for purchasing in game items. Currently the maxium money would be 200 USD. The inital currency would be 1 (USD) : 8 (In game dollars).
 
 ## Black market
 
 ![Example of traders in Escape from tarkov](https://i1.wp.com/bssgaming.com/wp-content/uploads/2020/03/2020-03-1921-05-0-1.png?fit=1920%2C1080&ssl=1)
 Black market is the place where players could purchase unique items inside the game. This includes vehicles, in-game gadgets and speical services. These services are offered by "fixers" in the game. 
 
+### Laundring
+Expect special items and cash, all items requires getting "processed" by fixers. As introduced in the robbery items, diamond takes the most time to process, then the second one is gold. Depends on that day's currency, the final money the player can receive will depends on it.
+
+### Special missions 
+
 Sometimes fixers will offer missions for the players. For example, fixers might require players to get specific special items. The more quests you complete from fixers, the more benefit you can enjoy from the fixers. (i.e: discounts on special gear, extra payback when hadling items.)
+
+### Intel
+Both cops and robbers can chose to buy intel from fixers for a specific player in each round. Cops and buy intel from fixers about the robber's special missions, while the robbers can do the same.
 
 ## Progressions
 
-In each round of matches, players will able to gain experiences. The experiencs could be gained from driving, robbing, or pursuiting. These experiences will stored into reputations. Reputations are useful when trying to get special items from the black market, also showing off how experience you-are in the game.
+In each round of matches, players will able to gain experiences. The experiencs could be gained from driving, robbing, or pursuiting. These experiences will stored into reputations. Reputations are useful when trying to get special items from the black market, also for flexing to other players.
+
+As the player gain more money, player can purchase high-tier vehicle and apartment items.
 
 ## Monetization
 
-Our monetization would be only for purchasing dollars when the server is opened. However in the future, battle pass might me introduced, with special limited-time exclusive access for vehicles, livery and character outfit packs. After that, they will be available for players to purchase with in-game dollars.
+Our monetization would be only for purchasing dollars when the server is opened. However in the future, battle pass might be introduced, with special limited-time exclusive access for vehicles, livery and character outfit packs. After that, they will be available for players to purchase with in-game dollars.
