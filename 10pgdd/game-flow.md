@@ -22,16 +22,29 @@ The spawn selection screen would allow the robber team to select the inital spaw
 
 ## Intel accuire
 
-Both cops and robbers can choose to retrive intel of the oppomnets in the intel accuire screen. 
+Both cops and robbers can choose to retrive intel of the oppomnets in the intel accuire screen.
 
 ## First score
 
-The robbers have to start the first score within 5 minutes. After 5 minutes, the position will be revealed to the cops and the cops can go after it. 
+The robbers have to start the first score within 5 minutes. After 5 minutes, the position will be revealed to the cops and the cops can go after it.
 
 ## Defending phrase
 
-Once the robber teams entered the bank, all the cops will not able to respawn until the heist is ended. The robbers can use this opprtunity to elimate the cops so that they can agin more time whe nescaping. However if the car destroyed, the game ends.
+Once the robber teams entered the bank, all the cops will not able to respawn until the heist is ended. The robbers can use this opprtunity to elimate the cops so that they can agin more time whe escaping. However if the car destroyed, the game ends.
 
 ## Robbing phrase
 
-When 
+When the robber team start to rob the bank, at least one player is responsible to control the crownd in the lobby, then some players have to go to the vault, and rob the vaulables. As mention in the mechanics page, players have to choose the right item to get the vaulables. At this phrase, cops will not able to respawn.
+
+## Escape phrase
+
+As the robbers leave the bank, there is a time allowence before the cops started to respawn. Once the cops reswpan, the location of the robbers will be available on the cop's radar for 1 minute. Then if the robber is out of sight, the location will be disapperared from radar. The cops could use utilities to stop the robbers, and the robbers could use their firearms to defend them selves from the cops. Cops can have infinte respawn in this phrase. The robbers can choose the next target they would like to rob, until they finally reached to the pacific standard bank.
+
+## Getaway phrase
+
+Once the robber team decided to getaway, a window will prompt the players to select where to getaway. Players could choose to escape from riverside or the airport. The robber team have to prevent their vehicle getting destroyedby the cops and the cops have to stop the robbers to get the money away. If the robber team managed to getaway from the cops, the robbers win and they can takeaway all the money they get from the heist. As vice versa, As the cops managed to destroy the robber's vehicle, they will win the match.
+
+## Aftermatch
+
+The cut% will be set to 25% for each member for the robbers team. As for the cops team, the team managed to make the most damage to the robbery will receive the most cut% from the score of the robbery. Players can use the money to purchase items on stores, fixers or in trade markets.
+
