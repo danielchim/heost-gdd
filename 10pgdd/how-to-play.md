@@ -1,4 +1,4 @@
-# How the game plays.
+# How the game plays
 
 In this part, we will introduce different compoments in the game, for a further introduction about the setting about the game.
 

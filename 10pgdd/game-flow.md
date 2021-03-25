@@ -47,4 +47,3 @@ Once the robber team decided to getaway, a window will prompt the players to sel
 ## Aftermatch
 
 The cut% will be set to 25% for each member for the robbers team. As for the cops team, the team managed to make the most damage to the robbery will receive the most cut% from the score of the robbery. Players can use the money to purchase items on stores, fixers or in trade markets.
-
